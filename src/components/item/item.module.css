@@ -1,0 +1,10 @@
+.container {
+  width: 150px;
+  height: 150px;
+  background-color: #f2f2f2;
+  padding: 16px;
+}
+
+._active {
+  background: red;
+}
